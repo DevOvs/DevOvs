@@ -1,7 +1,8 @@
 ![Header](assets/M_Service.jpg)
 
-# I'm a QA Engineer and also:
+# I'm a PM and also:
 - ## Co founder and PR manager [PXPTV](http://pxptv.ru)
+- EX QA Engineer
 - ## Old cars lover
 - ## BMW E39 owner
 
