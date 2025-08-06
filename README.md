@@ -2,7 +2,7 @@
 
 # I'm a PM and also:
 - ## Co founder and PR manager [PXPTV](http://pxptv.ru)
-- EX QA Engineer
+- ## EX QA Engineer
 - ## Old cars lover
 - ## BMW E39 owner
 
