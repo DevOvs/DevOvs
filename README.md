@@ -1,6 +1,6 @@
 ![Header](assets/M_Service.jpg)
 
-# I'm a PM and also:
+# I'm a Project Manager and also:
 - ## Co founder and PR manager [PXPTV](http://pxptv.ru)
 - ## EX QA Engineer
 - ## Old cars lover
